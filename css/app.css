@@ -14,8 +14,10 @@
 }
 
 .container{
+    background-color: white;
     margin: 0% auto;
-    max-width: 900px;
+    max-width: 600px;
+    height: auto;
 }
 
 .button1{
@@ -26,4 +28,16 @@
 .button2{
     background-color: white;
     color: grey;
+}
+
+.titles{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.contenuti{
+    background-color:blue ;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
 }
